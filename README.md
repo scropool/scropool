@@ -1,4 +1,4 @@
-# Hi there 👋 Im scropool!
+# Hi there 👋 I’m scropool!
 
 # - 🔭 I’m currently working on LTAC Project please support it...
 
