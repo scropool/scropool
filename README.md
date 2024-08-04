@@ -5,4 +5,4 @@
 ## - I currently working on LTAC Project
 
 # My Socials: 
-![Discord](https://badgen.net/badge/icon/discord?icon=discord&label=): scropool_
+![Discord](https://badgen.net/badge/icon/discord?icon=discord&label=) : scropool_
