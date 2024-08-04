@@ -1,9 +1,4 @@
-# Hi there 👋 I’m scropool!
-
-# - 🔭 I’m currently working on LTAC Project please support it...
-
-
-
-
-
-![react](https://github.com/scropool/scropool/blob/main/images/react.gif)
+# Hi there 👋 I’m scropool!       " Discord: scropool_ "
+# About me;
+## - I make all kinds of tool batch scripts for Windows 10 LTSC and LTSB
+## - I currently working on LTAC Project
